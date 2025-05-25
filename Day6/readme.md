@@ -7,7 +7,7 @@
 ⭐Used to measure how long a part of your code takes to run.
 
 
-<3>📝 Why use it?</h3>
+<h3>📝 Why use it?</h3>
 </pre>
 To check how fast or slow your code runs — useful when comparing two algorithms like linear s
 earch vs. binary search.
