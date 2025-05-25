@@ -5,12 +5,13 @@
 ⭐tic starts a timer.
 ⭐toc stops the timer and shows the elapsed time (in seconds).
 ⭐Used to measure how long a part of your code takes to run.
-
-
-<h3>📝 Why use it?</h3>
 </pre>
+<pre>
+<h3>📝 Why use it?</h3>
+
 To check how fast or slow your code runs — useful when comparing two algorithms like linear s
 earch vs. binary search.
+</pre>
 
 ![timecomplexity](https://github.com/user-attachments/assets/759ca364-378d-4974-8e7e-06e8ba7366af)
 
