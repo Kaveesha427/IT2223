@@ -1,0 +1,116 @@
+1)Calculate Time complexity Using Tic Toc
+
+n=2000;
+tic; %when start the loop -> to start time calculating
+
+for i=1:n
+   x=i;
+end
+
+
+elapsedTime=toc; %when end of the loop -> to finish time calculating
+
+fprintf('Elapsed time: %f seconds\n',toc);
+
+
+output:
+>> TimeComplexity
+Elapsed time: 0.002804 
+
+2)Linear Search 
+
+arr=[3,5,7,9,11,13];
+
+target=9; %9, 19
+
+found=false;
+
+for i=1:length(arr)
+    %disp(arr(i))
+    if arr(i)==target
+        found=true;
+        index=i;
+        break;
+    end
+    %index=index+1;
+end
+
+if found
+    fprintf("Target element is found at index: %d \n",index)
+else
+    fprintf("Target element is not found \n")
+end
+
+Output:
+
+>> LinearSearch
+Target element is found at index: 4 
+>> 
+
+3)Binary Search
+
+array=[3,6,8,12,14,17,25,29,31,36,42,47,53,55,62];
+target=55;
+found=false;
+
+low=1;
+high=length(array);
+
+while low<=high
+    mid=round((low+high)/2);
+    
+   if array(mid)==target
+        found=true;
+        index=mid;
+        break;
+   elseif target < array(mid)
+         high = mid-1;
+   else 
+         low = mid+1;
+   end
+end
+if found
+    fprintf("Target element is found at index: %d \n",index)
+else
+    fprintf("Target element is not found \n")
+end
+
+Output:
+
+>> BinarySearch
+Target element is found at index: 14 
+
+
+4)Calculate Time Complexity in LinearSearch
+
+arr=[3,6,8,12,14,17,25,29,31,36,42,47,53,55,62];
+
+tic; 
+target=3; %9, 19
+found=false;
+
+for i=1:length(arr)
+    %disp(arr(i))
+    if arr(i)==target
+        found=true;
+        index=i;
+        break;
+    end
+    %index=index+1;
+end
+if found
+    fprintf("Target element is found at index: %d \n",index)
+else
+    fprintf("Target element is not found \n")
+end
+
+elapsedTime=toc; 
+fprintf('\nElapsed time: %f seconds\n',elapsedTime);
+
+Output:
+
+>> LSwithTC
+Target element is found at index: 1 
+
+Elapsed time: 0.002535 seconds
+>> 
