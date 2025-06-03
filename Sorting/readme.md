@@ -10,6 +10,15 @@
 
 ![insertion](https://github.com/user-attachments/assets/17578793-5985-4d01-8764-423d17a421c7)
 
+<h2>Merge Sort</h2>
+
+![mergesort](https://github.com/user-attachments/assets/985c8777-afa5-48b6-8ae0-8ccf82ec7cb4)
+
+<h2>Quick Sort</h2>
+
+![Quicksort](https://github.com/user-attachments/assets/716a85a0-1158-4c02-a40c-cf6d72480cd5)
+
+
 <h1>🌳Function</h1>
 <h2>Add number</h2>
 
