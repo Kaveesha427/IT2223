@@ -22,3 +22,8 @@
 <h3>6.Highlighting Nodes and Edges in a Graph</h3>
 
 ![highlight](https://github.com/user-attachments/assets/1b52efe3-6355-4005-9502-ab1d02d08e90)
+
+<h3>Activity1</h3>
+
+![activity1](https://github.com/user-attachments/assets/363b62cb-0bb8-4623-8129-950b993c79ad)
+
