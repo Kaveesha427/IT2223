@@ -27,3 +27,19 @@
 
 ![activity1](https://github.com/user-attachments/assets/363b62cb-0bb8-4623-8129-950b993c79ad)
 
+<h3>BFS</h3>
+
+![bfs](https://github.com/user-attachments/assets/38d2d400-eaa0-4547-adbf-994de4e1b066)
+
+
+<h3>DFS</h3>
+
+![dfs](https://github.com/user-attachments/assets/abba5271-2818-482a-9dcd-8667ac6d3baf)
+
+
+<h3>Exercise2</h3>
+
+![exercise](https://github.com/user-attachments/assets/7309fab0-2b38-408b-9df7-ee79cc077f06)
+
+
+
